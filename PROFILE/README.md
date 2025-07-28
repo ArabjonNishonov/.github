@@ -40,7 +40,7 @@
 
 ## 📬 Contact & Connect
 
-- 💬 **Telegram**: [@suxrobnurali](https://t.me/arabjon_n)  
+- 💬 **Telegram**: [@Arabjon Nishonov](https://t.me/arabjon_n)  
 - 📂 **GitHub**: [github.com/ArabkhonDev](https://github.com/ArabkhonDev)
 
 ---
