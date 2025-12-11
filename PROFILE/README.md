@@ -14,9 +14,10 @@
 ### 🧰 My Tech Stack
 
 - **Backend Language**: PHP (Laravel)
-- **Databases**: MySQL, PostgreSQL, Redis
-- **Tools**: Git, Postman, Docker, Swagger, CI/CD (GitHub Actions, GitLab CI)
-- **Architecture Patterns**: Service, Repository, DTO, Observer, Action Pattern
+- **Databases**: MySQL, PostgreSQL, Redis, RabbitMq, Typesense, Memcashed
+- **Tools**: Git, Postman, Docker, Swagger, Scribe
+//CI/CD (GitHub Actions, GitLab CI)
+- **Architecture Patterns**: Service, Repository, DTO, Observer, Action Pattern, Interface
 
 ### 💡 What I Do
 
